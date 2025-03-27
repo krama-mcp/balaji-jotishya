@@ -1,55 +1,80 @@
-# Balaji Jotishya
+# Book Plan: Comprehensive Introduction to Vedic Astrology
 
-A comprehensive astrological calculation and analysis system based on Vedic principles.
+## 1. Introduction to Vedic Astrology
+- Historical Background and Origins
+- Difference between Vedic and Western Astrology
+- Importance and Relevance in Modern Times
+- Basic Principles and Core Concepts
+- Ethical Considerations in Astrological Practice
 
-## Overview
+## 2. Fundamental Components
+- The Nine Planets (Navagrahas)
+- Twelve Houses (Bhavas)
+- Twelve Zodiac Signs (Rashis)
+- Nakshatras (Lunar Mansions)
+- Elements and Their Significance
 
-Balaji Jotishya is a modern implementation of traditional Vedic astrology calculations and interpretations. This project aims to provide accurate astrological calculations while maintaining the authenticity of traditional methods.
+## 3. Birth Chart Analysis
+- Understanding Birth Charts (Kundali)
+- Planetary Positions and Their Meanings
+- House Systems and Their Interpretations
+- Aspects and Conjunctions
+- Strength of Planets (Shadbala)
 
-## Features (Planned)
+## 4. Advanced Concepts
+- Dasha Systems
+  - Vimshottari Dasha
+  - Other Important Dashas
+- Yogas and Their Effects
+- Divisional Charts (Varga)
+- Transit Effects (Gochar)
+- Ashtakavarga System
 
-- Birth chart (Kundali) calculation
-- Planetary positions and aspects
-- Dasha calculations
-- Astrological predictions and interpretations
-- Muhurta (Auspicious timing) calculations
-- Compatibility analysis (Gun Milan)
+## 5. Practical Applications
+- Career and Professional Life
+- Relationships and Marriage
+- Health and Wellness
+- Financial Prosperity
+- Spiritual Growth
 
-## Tech Stack
+## 6. Remedial Measures
+- Gemstones and Their Properties
+- Mantras and Their Usage
+- Planetary Worship Methods
+- Charitable Activities
+- Lifestyle Modifications
 
-- Backend: [To be decided]
-- Frontend: [To be decided]
-- Database: [To be decided]
+## 7. Special Topics
+- Muhurta (Electional Astrology)
+- Prashna (Horary Astrology)
+- Compatibility Analysis (Gun Milan)
+- Annual Predictions
+- Special Yogas and Doshas
 
-## Getting Started
+## 8. Modern Integration
+- Software Tools and Calculations
+- Online Resources
+- Research in Vedic Astrology
+- Contemporary Applications
+- Future of Vedic Astrology
 
-### Prerequisites
+## 9. Practical Guide
+- Case Studies
+- Chart Reading Practice
+- Common Misconceptions
+- Frequently Asked Questions
+- Guidelines for Further Study
 
-[To be added]
+## 10. Reference Materials
+- Glossary of Terms
+- Important Tables and Charts
+- Bibliography
+- Recommended Reading
+- Online Resources
 
-### Installation
-
-[To be added]
-
-## Project Structure
-
-```
-balaji-jotishya/
-├── README.md
-└── [Additional structure to be added]
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[To be decided]
-
-## Contact
-
-[To be added]
-
----
-⭐ If you find this project useful, please consider giving it a star!
+## Appendices
+A. Planetary Tables
+B. Important Calculations
+C. Templates for Chart Analysis
+D. Quick Reference Guides
+E. Common Yogas and Their Effects 
